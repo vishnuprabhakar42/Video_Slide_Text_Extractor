@@ -1,0 +1,16 @@
+Basic concepts of Version Control ’
+a= OMG 4
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+
+. , I
+> Version Control keeps a history of changes Vi
+Every code change and file is tracked! Ss
+Version 2
+~ You can revert commits
+A NT 7
+
+Version 1
+

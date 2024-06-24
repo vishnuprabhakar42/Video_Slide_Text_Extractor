@@ -1,0 +1,18 @@
+Basic concepts of Version Control .
+«= GMa 4
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+
+.
+> Version Control keeps a history of changes roy
+
+Every code change and file is tracked! t
+
+Version 2
+
+t
+
+Version 1
+

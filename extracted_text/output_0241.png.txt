@@ -1,0 +1,7 @@
+Basic concepts of Version Control
+= {= 4
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+

@@ -1,0 +1,5 @@
+Basic concepts of Version Control Co
+> Git knows how to merge changes automatically = 3%
+
+  
+

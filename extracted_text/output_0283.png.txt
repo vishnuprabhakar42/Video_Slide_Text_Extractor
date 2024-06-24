@@ -1,0 +1,15 @@
+Basic concepts of Version Control ’
+= OMG 4
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+
+. ; I
+> Version Control keeps a history of changes Cy
+Every code change and file is tracked! Ss
+Version 2
+You can revert commits ote
+
+Version 1
+

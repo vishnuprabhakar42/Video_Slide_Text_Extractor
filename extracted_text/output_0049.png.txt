@@ -1,0 +1,10 @@
+What is Version Control?
+
+> Developers working on the same code
+
+  
+
+> Code is hosted centrally on the internet
+
+hz Ea How to share the code?
+

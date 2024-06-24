@@ -1,0 +1,17 @@
+Basic concepts of Version Control 2
+«= OMa 4%
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+
+. 7 |
+> Version Control keeps a history of changes roy
+
+Every code change and file is tracked!
+
+You can revert commits Each change labelled Add list for... Version 2
+
+with commit message
+Fix button... Version 1
+

@@ -1,0 +1,18 @@
+What is Version Control?
+
+> Developers working on the same code
+
+ 
+
+> Code is hosted centrally on the internet
+
+How to share the code?
+
+  
+
+Fever (MX yorerTi Coleg
+
+  
+
+> Every developer has an entire copy of the code locally
+

@@ -1,0 +1,12 @@
+Basic concepts of Version Control
+
+> Git knows how to merge changes automatically
+
+me .,
+
+> Merge Conflicts - when same line was changed e.g. @
+
+  
+
+> Best practice: push and pull often from remote repo
+

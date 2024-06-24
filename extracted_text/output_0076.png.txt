@@ -1,0 +1,16 @@
+What is Version Control?
+
+> Developers working on the same code
+
+  
+
+> Code is hosted centrally on the internet
+
+How to share the code?
+
+ 
+
+> Every developer has an entire copy of the code locally
+
+> Code is fetched from remote repo and pushed to code repo
+

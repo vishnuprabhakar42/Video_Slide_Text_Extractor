@@ -1,0 +1,20 @@
+Torre date) eR etl
+
+Control
+
+& Ome & a
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+  
+
+5: 7 |
+> Version Control keeps a history of changes Oo
+
+Every code change and file is tracked!
+
+You can revert commits Each change labelled Add list for... Version 2
+
+with commit message
+Fix button... Version 1
+

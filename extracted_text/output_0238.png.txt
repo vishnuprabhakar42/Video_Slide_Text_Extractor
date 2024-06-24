@@ -1,0 +1,9 @@
+Basic concepts of Version Control “
+=
+2 om. 4%
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+ 
+

@@ -1,0 +1,6 @@
+Basic concepts of Version Control
+
+> Git knows how to merge changes automatically
+
+  
+

@@ -1,0 +1,12 @@
+Basic concepts of Version Control
+= Oma 4
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+
+. ; I
+> Version Control keeps a history of changes O
+
+Every code change and file is tracked!
+

@@ -1,0 +1,12 @@
+Basic concepts of Version Control
+
+> Git knows how to merge changes automatically
+
+“: .,
+
+> Merge Conflicts - when same line was changed e.g. @
+
+  
+
+eh > Git can't fixitalone ...must be solved manually
+

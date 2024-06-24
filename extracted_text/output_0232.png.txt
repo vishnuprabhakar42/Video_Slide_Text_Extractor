@@ -1,0 +1,9 @@
+Basic concepts of Version Control “
+=
+SS a
+
+> Breaking changes doesn't affect you until you pulled the new code
+
+ 
+ 
+
